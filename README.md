@@ -1,2 +1,2 @@
-# l-senordsfras
+# lösenordsfras
 Create a passphrase with Swedish words
